@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gpcalculator.github.io/static/css/main.bc258079.css",
-    "main.js": "/gpcalculator.github.io/static/js/main.25430150.js",
-    "static/js/787.c6af6696.chunk.js": "/gpcalculator.github.io/static/js/787.c6af6696.chunk.js",
-    "index.html": "/gpcalculator.github.io/index.html",
-    "main.bc258079.css.map": "/gpcalculator.github.io/static/css/main.bc258079.css.map",
-    "main.25430150.js.map": "/gpcalculator.github.io/static/js/main.25430150.js.map",
-    "787.c6af6696.chunk.js.map": "/gpcalculator.github.io/static/js/787.c6af6696.chunk.js.map"
+    "main.css": "/GP-CALCULATOR/static/css/main.bc258079.css",
+    "main.js": "/GP-CALCULATOR/static/js/main.893ea39e.js",
+    "static/js/787.c6af6696.chunk.js": "/GP-CALCULATOR/static/js/787.c6af6696.chunk.js",
+    "index.html": "/GP-CALCULATOR/index.html",
+    "main.bc258079.css.map": "/GP-CALCULATOR/static/css/main.bc258079.css.map",
+    "main.893ea39e.js.map": "/GP-CALCULATOR/static/js/main.893ea39e.js.map",
+    "787.c6af6696.chunk.js.map": "/GP-CALCULATOR/static/js/787.c6af6696.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc258079.css",
-    "static/js/main.25430150.js"
+    "static/js/main.893ea39e.js"
   ]
 }
