@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/gpcalculator.github.io/static/css/main.bc258079.css",
-    "main.js": "/gpcalculator.github.io/static/js/main.25430150.js",
-    "static/js/787.c6af6696.chunk.js": "/gpcalculator.github.io/static/js/787.c6af6696.chunk.js",
+    "main.css": "/gpcalculator.github.io/static/css/main.e52bfcae.css",
+    "main.js": "/gpcalculator.github.io/static/js/main.14fb5717.js",
+    "static/js/512.aaa3a1f3.chunk.js": "/gpcalculator.github.io/static/js/512.aaa3a1f3.chunk.js",
+    "static/media/dvnation.jpg": "/gpcalculator.github.io/static/media/dvnation.91984608437a793b9441.jpg",
+    "static/media/logo.svg": "/gpcalculator.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gpcalculator.github.io/index.html",
-    "main.bc258079.css.map": "/gpcalculator.github.io/static/css/main.bc258079.css.map",
-    "main.25430150.js.map": "/gpcalculator.github.io/static/js/main.25430150.js.map",
-    "787.c6af6696.chunk.js.map": "/gpcalculator.github.io/static/js/787.c6af6696.chunk.js.map"
+    "main.e52bfcae.css.map": "/gpcalculator.github.io/static/css/main.e52bfcae.css.map",
+    "main.14fb5717.js.map": "/gpcalculator.github.io/static/js/main.14fb5717.js.map",
+    "512.aaa3a1f3.chunk.js.map": "/gpcalculator.github.io/static/js/512.aaa3a1f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc258079.css",
-    "static/js/main.25430150.js"
+    "static/css/main.e52bfcae.css",
+    "static/js/main.14fb5717.js"
   ]
 }
